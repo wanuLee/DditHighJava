@@ -25,6 +25,7 @@ public class JdbcTest01 {
 	 * 5. 사용한 자원을 반납하기(Connection 객체 , Statement객체, PreparedStatement객체, ResultSet객체
 	 * 등...) ==> 각 객체의 close()메서드를 이용한다.
 	 */
+	
 
 	public static void main(String[] args) {
 		// JDBC작업에 필요한 변수 선언
